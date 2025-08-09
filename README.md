@@ -11,8 +11,9 @@ Each task demonstrates new features and enhancements, with screenshots and brief
 ## 📊 Visuals & Descriptions
 
 ### 1. KPI Cards – New Card Visual
-![KPI Cards](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_1.png)  
 Displays Net Sales, Gross Profit, and Net Profit with **YOY variance indicators** using the new Card Visual.
+![KPI Cards](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_1.png)  
+
 
 ---
 
