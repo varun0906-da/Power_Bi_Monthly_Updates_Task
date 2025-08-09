@@ -4,6 +4,8 @@ This repository showcases my **Power BI course project** from [Codebasics](https
 
 Each task demonstrates new features and enhancements, with screenshots and brief descriptions.
 
+🔗 You can find the .pbit file here : [Report](https://github.com/varun0906-da/BI-360-Insights/blob/main/chapter_7_bi360_vp_p%26l_structure_12.12_Executive_view.pbit)
+
 ---
 
 ## 📊 Visuals & Descriptions
