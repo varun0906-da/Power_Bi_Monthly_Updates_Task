@@ -12,50 +12,67 @@ Each task demonstrates new features and enhancements, with screenshots and brief
 
 ### 1. KPI Cards – New Card Visual
 Displays Net Sales, Gross Profit, and Net Profit with **YOY variance indicators** using the new Card Visual.
+
 ![KPI Cards](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_1.png)  
 
 
 ---
 
 ### 2. Button Slicer with Country Flags
-![Button Slicer](images/Task_2.png)  
 Interactive slicer buttons with **country flags** and **customer count** for quick filtering.
+
+![Button Slicer](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_2.png)  
+
 
 ---
 
 ### 3. Enhanced Column, Bar & Ribbon Charts
-![Enhanced Charts](images/Task_3.png)  
-Clustered column, stacked bar, and ribbon charts with **dynamic data labels** and enhanced aesthetics.
+ Clustered column, stacked bar, and ribbon charts with **dynamic data labels** and enhanced aesthetics.
 
+![Enhanced Charts](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_3.png) 
 ---
 
 ### 4. IBCS-style Visual
-![IBCS Visual](images/Task_4.png)  
+
 An **IBCS-compliant** visual to present trends clearly and concisely.
+
+![IBCS Visual](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_4.png)  
+
 
 ---
 
 ### 5. Vertical KPI Cards with Reference Labels
-![Vertical KPI](images/Task_5.png)  
+
 Vertically aligned KPIs with **customizable reference labels** for better readability.
+
+![Vertical KPI](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_5.png)  
+
 
 ---
 
 ### 6. 100% Stacked Area Chart
-![Stacked Area Chart](images/Task_6.png)  
+
 Shows **percentage contribution** of each region/sub-region over time.
+
+![Stacked Area Chart](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_6.png)  
+
 
 ---
 
 ### 7. Forecast Line Chart
-![Forecast Chart](images/Task_7.png)  
+
 Visualizes **actual vs forecast sales trends** in a single chart.
+
+![Forecast Chart](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_7.png)  
+
 
 ---
 
 ### 8. Customizable Matrix Layouts
-![Matrix Layouts](images/Task_8.png)  
+  
 Sales performance matrix using **Compact, Outline, and Tabular** formats.
+
+![Matrix Layouts](https://github.com/varun0906-da/Power_Bi_Monthly_Updates_Task/blob/main/Task_8.png)
 
 ---
 
